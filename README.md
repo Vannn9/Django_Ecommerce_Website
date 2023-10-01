@@ -3,7 +3,7 @@ Can't run this on github pages because it isn't static
 project is in /ecommerce
 
 Project ScreenShots!
-
+    -----
     Store - ![image](https://github.com/Vannn9/Django_Ecommerce_Website/assets/95726920/4fb71f2e-8fad-4c0b-bb73-8e238276f8d0)
     Cart - ![image](https://github.com/Vannn9/Django_Ecommerce_Website/assets/95726920/87b65514-a478-43fc-869b-fd7235478082)
     Checout - ![image](https://github.com/Vannn9/Django_Ecommerce_Website/assets/95726920/c141df43-b061-4276-9ecb-361f10ecc26b)
